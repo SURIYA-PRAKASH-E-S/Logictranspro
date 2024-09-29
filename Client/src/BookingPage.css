@@ -1,0 +1,20 @@
+.booking-page {
+    padding: 20px;
+    border-radius: 15px; /* Rounded corners for the booking page */
+    background-color: rgba(255, 255, 255, 0.9); /* Light background for contrast */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.vehicle-details {
+    margin-bottom: 20px;
+    padding: 20px; /* Added padding */
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly opaque background for contrast */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.vehicle-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Rounded corners */
+}

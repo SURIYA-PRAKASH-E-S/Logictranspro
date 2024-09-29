@@ -1,0 +1,36 @@
+.community-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.community-card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    width: 300px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.community-card h2 {
+    margin-top: 0;
+}
+
+.community-card p {
+    margin-bottom: 10px;
+}
+
+.community-card button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.community-card button:hover {
+    background-color: #3e8e41;
+}
